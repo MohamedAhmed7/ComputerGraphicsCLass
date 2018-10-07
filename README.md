@@ -14,8 +14,8 @@ All regular polygons have rotation symmetry. This means that a rotation of less 
 In fact, a regular n-sided polygon has rotation symmetry for any multiple of 360∘ / n.
 
 equations to get the verteces :
-#x = (cos((2 * pi*(i / (numOfSides * 1.0))) + (2 * pi*(1 / (numOfSides*1.0))) / 2));
-#y = (sin((2 * pi*(i / (numOfSides * 1.0))) + (2 * pi*(1 / (numOfSides*1.0))) / 2));
+# x = (cos((2 * pi*(i / (numOfSides * 1.0))) + (2 * pi*(1 / (numOfSides*1.0))) / 2));
+# y = (sin((2 * pi*(i / (numOfSides * 1.0))) + (2 * pi*(1 / (numOfSides*1.0))) / 2));
 
 #sample View:
 
