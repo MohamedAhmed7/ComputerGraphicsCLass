@@ -1,5 +1,6 @@
 # ComputerGraphicsCLass
 Computer Graphics class work 
+##Weak 01
 # problem: draw polygons as much as you can
 
 A regular polygon is a polygon that is equiangular and equilateral. 
